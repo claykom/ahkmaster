@@ -1,6 +1,8 @@
 # AutoHotkey Master Controller
 
 > **💡 Sample Project**: This is a demonstration project designed to provide inspiration and architectural ideas for managing multiple AutoHotkey scripts through a centralized master controller. Use it as a reference implementation, learning tool, or starting point for your own automation workflows. The patterns and techniques shown here can be adapted and extended to fit your specific needs.
+>
+> Preface: I'm newer to AutoHotkey and I know things can probably be done a better way — I'm dedicated to exploring improvements and learning better approaches as I go.
 
 A centralized control system for managing multiple AutoHotkey v2 automation scripts with a unified GUI, notification system, and coordinated lifecycle management.
 
