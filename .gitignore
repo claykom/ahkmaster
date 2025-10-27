@@ -1,0 +1,29 @@
+# AutoHotkey Master Controller - Git Ignore
+
+# Control directory (runtime state and IPC files)
+control/
+
+# AutoHotkey compiled executables
+*.exe
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Windows folder config file
+Desktop.ini
+
+# VS Code settings (personal preferences)
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
